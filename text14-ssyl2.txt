@@ -1,3 +1,4 @@
+﻿
 ﻿файл записан сервером моим
-ion ne budet perezapisan
+ion ne budet //записана всякая фигня// perezapisan
 попробуй перезапиши
